@@ -1,0 +1,18 @@
+INDEX VERSION 1.129+/usr/desenvolvimento/workspace/workspace_java_learn/.metadata/.plugins/org.eclipse.jdt.core
+952479617.index
+760695395.index
+2071321315.index
+3120402945.index
+605128088.index
+3418744822.index
+3410344997.index
+387799236.index
+1636593433.index
+4165054971.index
+168489461.index
+3356087017.index
+1984397415.index
+736299255.index
+2786877369.index
+1315849094.index
+3910434049.index

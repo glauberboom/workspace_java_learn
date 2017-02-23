@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;learn.Eaoap2009Ex51&apos; to &apos;Esfcex2009Ex51&apos;&#x0A;- Original project: &apos;learn&apos;&#x0A;- Original element: &apos;learn.Eaoap2009Ex51&apos;&#x0A;- Renamed element: &apos;learn.Esfcex2009Ex51&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Eaoap2009Ex51&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;learn{Eaoap2009Ex51.java[Eaoap2009Ex51" matchStrategy="1" name="Esfcex2009Ex51" qualified="false" references="true" similarDeclarations="false" stamp="1470427736075" textual="false" version="1.0"/>
+</session>
