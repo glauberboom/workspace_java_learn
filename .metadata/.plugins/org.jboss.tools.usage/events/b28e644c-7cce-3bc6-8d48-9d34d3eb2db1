@@ -1,11 +1,11 @@
-#Wed Feb 22 18:25:30 BRT 2017
+#Thu Feb 23 14:30:30 BRT 2017
 vl=How many times the 'Finish' button pressed during the day
 l=Wizard class name
 ct=jbt
-d=1487798730171
+d=1487871030187
 c=0
 cmp=usage
 a=finishWizard
 cl=org.eclipse.egit.ui.internal.clone.GitImportWizard
 v=2.2.2
-s=1
+s=0

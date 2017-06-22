@@ -1,0 +1,15 @@
+<html>
+<body>
+<script type="text/javascript">
+
+<!--
+	soma = 0;
+for(var i = 0; i < 1; i++){
+	soma+= i;
+	document.write("O numero agora e; " + i
+			+ "<br>);"
+}
+-->
+</script>
+</body>
+</html>

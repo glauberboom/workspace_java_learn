@@ -816,3 +816,4 @@ java.io.InvalidClassException: org.eclipse.m2e.core.internal.project.registry.Ba
 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
 	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2835) [org.eclipse.ui.workbench_3.108.2.v20161025-2029.jar:na]
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-06-22 15:07:05,353 [Worker-7] INFO  o.e.m.s.i.w.MavenProjectCheckoutJob - No Maven projects to import
